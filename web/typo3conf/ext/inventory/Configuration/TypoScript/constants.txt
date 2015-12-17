@@ -1,0 +1,6 @@
+plugin.tx_inventory {
+	persistence {
+		 # cat=plugin.tx_inventory//a; type=int+; label=Default storage PID
+		storagePid = 9
+	}
+}

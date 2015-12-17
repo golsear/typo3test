@@ -1,0 +1,6 @@
+ # Plugin configuration
+plugin.tx_inventory {
+	persistence {
+		storagePid = {$plugin.tx_inventory.persistence.storagePid}
+	}
+}
